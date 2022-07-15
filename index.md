@@ -73,7 +73,7 @@ displayed if the 'eventbrite' field in the header is not set.
 <h2>Registration for this workshop begins on July 15, 2022 at 8:00 am PST.</h2>
 {% if page.eventbrite %}
 <strong>Some adblockers block the registration window. If you do not see the
-  registration box below, please check your adblocker settings.</strong>
+  registration box below, please check your adblocker settings.</strong> You may request to get notified if this workshop allows online registration.
 <iframe
   src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
   frameborder="0"
