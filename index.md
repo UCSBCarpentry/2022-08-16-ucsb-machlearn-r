@@ -402,7 +402,7 @@ please preview your site before committing, and make sure to run
   Library Carpentry
   {% endif %}
   workshop,
-  you will need access to software as described on this page: <a href= ""><strong>Setup Page</strong></a>.
+  you will need access to software as described on this page: <a href= "https://djhunter.github.io/r-ml-tabular-data/setup.html"><strong>Setup Page</strong></a>.
   In addition, you will need an up-to-date web browser.
 </p>
 <p>
